@@ -1,3 +1,9 @@
+AudioSet/
+AudioSetEval/
+ddsp-flute/
+realtime_audio_tag/
+source_separation_tutorial/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
